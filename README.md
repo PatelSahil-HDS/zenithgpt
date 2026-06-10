@@ -1,8 +1,10 @@
 # ZenithGPT
 
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-Postgres-3ECF8E?logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-Frontend-000000?logo=vercel&logoColor=white) ![License](https://img.shields.io/github/license/PatelSahil-HDS/zenithgpt) ![Last Commit](https://img.shields.io/github/last-commit/PatelSahil-HDS/zenithgpt)
+
 Full-stack AI chat app. Streaming responses, file uploads (PDF, Word, PowerPoint, images), voice input, dark mode.
 
-Live demo: https://zenithgpt.vercel.app
+🔗 **Live demo:** [zenithgpt.vercel.app](https://zenithgpt.vercel.app)
 
 ## Stack
 
